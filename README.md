@@ -1,7 +1,9 @@
 # 基于Eino框架的multi-agent小红书智能写作系统
-# 改原先工具调用删除，只有serper和tavily搜索工具
-# 只测过deepseek
-# prompt内容全改
+
+[实现效果](https://github.com/gongfan1213/loomi-go/wiki)
+### 改原先工具调用删除，只有serper和tavily搜索工具
+### 只测过deepseek
+### prompt内容全改
 
 一个基于 Go 语言和 eino 框架开发的高性能 AI 内容创作系统，专门为小红书、抖音、微博等社交媒体平台提供智能内容生成服务。
 
