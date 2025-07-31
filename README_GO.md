@@ -1,8 +1,8 @@
-# Loomi 2.0 - 基于 eino 框架的 AI 助手系统
+# multi-agent小红书智能写作助手- 基于 eino 框架的 AI 助手系统
 
 ## 🚀 项目简介
 
-Loomi 2.0 是一个基于字节跳动 [eino 框架](https://github.com/cloudwego/eino) 构建的高性能 AI 助手系统。使用 Go 语言开发，支持多种 AI 模型，提供智能对话和任务编排功能。
+multi-agent小红书智能写作助手是一个基于字节跳动 [eino 框架](https://github.com/cloudwego/eino) 构建的高性能 AI 助手系统。使用 Go 语言开发，支持多种 AI 模型，提供智能对话和任务编排功能。
 
 ## ✨ 主要特性
 
@@ -117,7 +117,7 @@ quit, exit, q    - 退出系统
 ```
 💬 请输入您的消息: 你好
 
-🤖 Loomi: 我是Loomi的门房，可以为您提供以下服务：
+🤖 multi-agent小红书智能写作助手: 我是multi-agent小红书智能写作助手的门房，可以为您提供以下服务：
 
 1. 帮助信息 - 输入"帮助"或"help"
 2. 系统状态 - 输入"状态"或"status"  
